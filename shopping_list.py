@@ -1,5 +1,5 @@
 shopping_list = [
-    {"item": "Notebook", "price": 150, "purchased": False},
+    {"item": "Notebook", "price": 150, "purchased": True},
     {"item": "Pen", "price": 30, "purchased": True},
     {"item": "USB Drive", "price": 900, "purchased": False},
 ]
